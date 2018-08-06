@@ -1,0 +1,2 @@
+# dilated_conv
+Wavenetで使われているdilated_convの実験をPyTorchでやります
